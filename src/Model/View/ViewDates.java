@@ -1,9 +1,7 @@
 package Model.View;
 
 import java.util.List;
-import java.util.Scanner;
 
-import Conect.EXP;
 import Entities.Department;
 import Entities.Seller;
 import Model.DAO.DepartmentDAO;
